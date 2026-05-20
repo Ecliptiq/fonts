@@ -17,9 +17,9 @@ Create a <mark>fonts.css</mark> in your repo on GitHub:
 @font-face {
   font-family: 'Your Font';
   src: url('https://cdn.jsdelivr.net/gh/username/fonts/yourfont/YourFont-Regular.woff2') format('woff2');
-  font-weight: 400
+  font-weight: 400;
   font-style: normal;
-} ```
+}
 ```
 
 Then import it into your project via <mark>@import url(...)</mark>
