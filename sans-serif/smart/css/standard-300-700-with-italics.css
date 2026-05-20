@@ -1,55 +1,55 @@
 @font-face {
   font-family: 'Smart';
-  src: url('https://cdn.jsdelivr.net/gh/ecliptiq/fonts/sans-serif/Smart/Smart-Light.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/ecliptiq/fonts/sans-serif/smart/Smart-Light.woff2') format('woff2');
   font-weight: 300;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Smart';
-  src: url('https://cdn.jsdelivr.net/gh/ecliptiq/fonts/sans-serif/Smart/Smart-LightItalic.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/ecliptiq/fonts/sans-serif/smart/Smart-LightItalic.woff2') format('woff2');
   font-weight: 300;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: 'Smart';
-  src: url('https://cdn.jsdelivr.net/gh/ecliptiq/fonts/sans-serif/Smart/Smart-Regular.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/ecliptiq/fonts/sans-serif/smart/Smart-Regular.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Smart';
-  src: url('https://cdn.jsdelivr.net/gh/ecliptiq/fonts/sans-serif/Smart/Smart-RegularItalic.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/ecliptiq/fonts/sans-serif/smart/Smart-RegularItalic.woff2') format('woff2');
   font-weight: 400;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: 'Smart';
-  src: url('https://cdn.jsdelivr.net/gh/ecliptiq/fonts/sans-serif/Smart/Smart-Medium.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/ecliptiq/fonts/sans-serif/smart/Smart-Medium.woff2') format('woff2');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Smart';
-  src: url('https://cdn.jsdelivr.net/gh/ecliptiq/fonts/sans-serif/Smart/Smart-MediumItalic.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/ecliptiq/fonts/sans-serif/smart/Smart-MediumItalic.woff2') format('woff2');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Smart';
-  src: url('https://cdn.jsdelivr.net/gh/ecliptiq/fonts/sans-serif/Smart/Smart-Bold.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/ecliptiq/fonts/sans-serif/smart/Smart-Bold.woff2') format('woff2');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Smart';
-  src: url('https://cdn.jsdelivr.net/gh/ecliptiq/fonts/sans-serif/Smart/Smart-BoldItalic.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/ecliptiq/fonts/sans-serif/smart/Smart-BoldItalic.woff2') format('woff2');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
